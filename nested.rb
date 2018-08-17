@@ -87,8 +87,7 @@ programmer_hash[:yuikiro_matsumoto] = {
   :known_for => "Ruby",
   :languages => ["LISP", "C"]}
 
-return programmer_hash[:yukihiro_matsumoto]
-    
+
 end
 
 def changing_alan
