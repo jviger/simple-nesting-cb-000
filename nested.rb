@@ -89,7 +89,7 @@ programmer_hash[:yukihiro_matsumoto] = {
   
 }
 
-return programmer_hash[:yukihiro_matsumoto]
+return programmer_hash.keys
 
 end
 
